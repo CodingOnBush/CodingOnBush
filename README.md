@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 • I'm going to write in French in this GitHub because it's my comfort zone and it could help French speakers  
+🇨🇵 • Je vais écrire en Français dans ce GitHub parceque c'est ma zone de confort et ça pourrait aider les Francophones  
+🖥 • Je suis étudiant à 42 depuis le 06 Novembre 2023  
+📈 • Projet en cours : libft  
+📫 • Tous mes liens dans ce [`bento`](https://bento.me/mostafa)  
+🦩 • Mon pote le flamant rose : [`Pablo`](https://pablotheflamingo.com/)
 <!--
 **CodingOnBush/CodingOnBush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
