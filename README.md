@@ -1,7 +1,6 @@
 ### Hi 👋
 
 🖥 • Étudiant à 42 depuis le 06 Novembre 2023  
-📈 • Projet en cours : fdf
 📫 • Tous mes liens dans ce [`bento`](https://bento.me/mostafa)  
 🦩 • Mon pote le flamant rose : [`Pablo`](https://pablotheflamingo.com/)  
 
